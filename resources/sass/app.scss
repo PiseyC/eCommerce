@@ -1,0 +1,21 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// font-awesome
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+@import '~@fortawesome/fontawesome-free/scss/regular';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+@import '~@fortawesome/fontawesome-free/scss/brands';
+
+// Bootstrap AdminLTE
+@import '~admin-lte/dist/css/adminlte.css';
+
+// Custom SASS
+@import 'overrides';
+@import 'helpers';
+
+@import '~toastr/toastr';
+@import 'icheck-bootstrap.min';
